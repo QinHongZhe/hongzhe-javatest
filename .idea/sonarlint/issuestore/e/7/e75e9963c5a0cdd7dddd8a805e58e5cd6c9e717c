@@ -1,0 +1,28 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ó§Œ–
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÕÌûáøÿÿÿÿ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¦Å¨ø
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¨¶ÑÍşÿÿÿÿ
+_
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(®³üœÿÿÿÿÿ
+j	java:S109"UAssign this magic number 9999 to a well-named constant, and use the constant instead.(¦Å¨ø
+m	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(÷Ì¸æûÿÿÿÿ
+h	java:S109"SAssign this magic number 20 to a well-named constant, and use the constant instead.(­ë¼ì
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(è¯ª
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ó§Œ–
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”ı¾
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+H
+java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾
+V	java:S125"<This block of commented-out lines of code should be removed.(‹ÔæÁúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ

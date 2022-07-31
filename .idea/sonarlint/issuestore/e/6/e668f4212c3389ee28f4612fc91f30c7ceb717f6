@@ -1,0 +1,49 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(«€Šøüÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(”õÙ úÿÿÿÿ
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.( ˜Ïÿÿÿÿÿ
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ
+_
+java:S1120!"DMake this line start after 6 spaces to indent the code consistently.(üÛµùÿÿÿÿ
+Z
+java:S1120""DMake this line start after 8 spaces to indent the code consistently.(ôÿ·²
+_
+java:S1120("DMake this line start after 4 spaces to indent the code consistently.(  ®ôıÿÿÿÿ
+@
+java:S1166"%Either log or rethrow this exception.(Ğäü¢ûÿÿÿÿ
+@
+java:S1166"%Either log or rethrow this exception.(ÿµ¾Ïşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸¬ÿá
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¨êÆ±
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(Úîø›
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ğäü¢ûÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿµ¾Ïşÿÿÿÿ
+\
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(üÛµùÿÿÿÿ
+W
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+E
+java:S1172"/Remove this unused method parameter "userName".(¨êÆ±
+M
+java:S1108"2Move this "catch" keyword to a new dedicated line.(Ğäü¢ûÿÿÿÿ
+M
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ÿµ¾Ïşÿÿÿÿ
+J
+java:S1108 "4Move this "finally" keyword to a new dedicated line.(Úîø›
+V	java:S125"<This block of commented-out lines of code should be removed.(«Ù’ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â‰òîùÿÿÿÿ
+A
+java:S1068"+Remove this unused "TIMEOUT" private field.(é¸ıÑ

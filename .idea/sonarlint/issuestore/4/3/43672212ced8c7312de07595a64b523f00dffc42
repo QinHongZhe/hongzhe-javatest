@@ -1,0 +1,75 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Æ†¤×ÿÿÿÿÿ
+Z
+java:S1120#"DMake this line start after 4 spaces to indent the code consistently.(µ£‚Ó
+_
+java:S1120+"DMake this line start after 6 spaces to indent the code consistently.(Ê…¬ûûÿÿÿÿ
+[
+java:S1120F"EMake this line start after 14 spaces to indent the code consistently.(ùóç”
+[
+java:S1120G"EMake this line start after 16 spaces to indent the code consistently.(ïÅĞƒ
+_
+java:S1120Q"DMake this line start after 8 spaces to indent the code consistently.(¤›äÁûÿÿÿÿ
+_
+java:S1120X"DMake this line start after 6 spaces to indent the code consistently.(ÔÔ¦øÿÿÿÿ
+_
+java:S1120Z"DMake this line start after 6 spaces to indent the code consistently.(ÏùÎÈÿÿÿÿÿ
+Z
+java:S1120]"DMake this line start after 6 spaces to indent the code consistently.(Õß¥Ù
+Z
+java:S1120a"DMake this line start after 8 spaces to indent the code consistently.(¯›‹
+_
+java:S1120l"DMake this line start after 4 spaces to indent the code consistently.(Á›ÓÍÿÿÿÿÿ
+_
+java:S1120m"DMake this line start after 6 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+Z
+java:S1120n"DMake this line start after 8 spaces to indent the code consistently.(§ƒ®
+Z
+java:S1120p"DMake this line start after 8 spaces to indent the code consistently.(Êğ¢ô
+;
+java:S1166o"%Either log or rethrow this exception.(ìŠÈ
+7
+java:S1220""Move this file to a named package.8İ”ö½–0
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¥Æ¯„üÿÿÿÿ
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(Úîø›
+\
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(¿­®üÿÿÿÿ
+W
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(ùóç”
+W
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(û¸õ¥
+W
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(Ãôş•
+W
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(ä ¹€
+\
+java:S1106`"AMove this left curly brace to the beginning of next line of code.(âŠüÿÿÿÿ
+W
+java:S1106k"AMove this left curly brace to the beginning of next line of code.(æÃÑú
+\
+java:S1106l"AMove this left curly brace to the beginning of next line of code.(Á›ÓÍÿÿÿÿÿ
+\
+java:S1106m"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106o"AMove this left curly brace to the beginning of next line of code.(ìŠÈ
+e	java:S103,"KSplit this 177 characters long line (which is greater than 120 authorized).(ç³õ¦ùÿÿÿÿ
+H
+java:S1108W"2Move this "catch" keyword to a new dedicated line.(Ãôş•
+H
+java:S1108Y"2Move this "catch" keyword to a new dedicated line.(ä ¹€
+J
+java:S1108\"4Move this "finally" keyword to a new dedicated line.(Úîø›
+S
+java:S3878,"8Remove this array creation and simply pass the elements.(ç³õ¦ùÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ
+J
+java:S2221o"4Catch a list of specific exception subtypes instead.(ìŠÈ
+H
+java:S1108o"2Move this "catch" keyword to a new dedicated line.(ìŠÈ

@@ -1,0 +1,25 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(µ°‚•úÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ØÉŠÚ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Íƒşƒ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÑêÃ¦úÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö€ÓŒ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÀ‹¡
+W
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(ïÈ„û
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(µ°‚•úÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŒÁÚúÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Üû«ûÿÿÿÿ
+e	java:S103"KSplit this 132 characters long line (which is greater than 120 authorized).(ŒÁÚúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÉŠÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íƒşƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑêÃ¦úÿÿÿÿ
