@@ -16,6 +16,21 @@
 
 
     </dependencies>
-
+    <repositories>
+        <repository>
+            <id>gitea</id>
+            <url>https://gitea.hongzhe.work/api/packages/hongzhe.qin/maven</url>
+        </repository>
+    </repositories>
+    <distributionManagement>
+        <repository>
+            <id>gitea</id>
+            <url>https://gitea.hongzhe.work/api/packages/hongzhe.qin/maven</url>
+        </repository>
+        <snapshotRepository>
+            <id>gitea</id>
+            <url>https://gitea.hongzhe.work/api/packages/hongzhe.qin/maven</url>
+        </snapshotRepository>
+    </distributionManagement>
 
 </project>
